@@ -7,3 +7,5 @@ It's intented to help improve the use of basic command lines and the use of gith
 for more info please refer to 
 
 [2]: https://holbertonschool.com
+
+Updated following challenge 03 / point 3
